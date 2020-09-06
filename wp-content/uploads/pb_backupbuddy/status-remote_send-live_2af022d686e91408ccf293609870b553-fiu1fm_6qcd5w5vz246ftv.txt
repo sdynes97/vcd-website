@@ -1,0 +1,39 @@
+{"event":"details","time":1598639708,"u":"09","run":"303.31","mem":"28.12","data":"----- Initiating master send function for BackupBuddy v8.6.1.0."}
+{"event":"details","time":1598639708,"u":"09","run":"303.32","mem":"28.12","data":"Basename file: `three.min.js`. Post-send deletion: No"}
+{"event":"details","time":1598639708,"u":"11","run":"303.33","mem":"28.12","data":"Created fileoptions lock file `send-live_2af022d686e91408ccf293609870b553-fiu1fm.txt.lock` with ID: 5f4994ac1a0c68.49838168."}
+{"event":"details","time":1598639708,"u":"11","run":"303.34","mem":"28.12","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1598639708,"u":"15","run":"303.37","mem":"28.13","data":"Fileoptions `send-live_2af022d686e91408ccf293609870b553-fiu1fm.txt` saved. 2836 bytes written."}
+{"event":"details","time":1598639708,"u":"18","run":"303.40","mem":"28.12","data":"Initializing destination."}
+{"event":"details","time":1598639708,"u":"20","run":"303.42","mem":"28.12","data":"Applying destination-specific defaults."}
+{"event":"details","time":1598639708,"u":"21","run":"303.43","mem":"28.13","data":"Applying global destination defaults."}
+{"event":"details","time":1598639708,"u":"22","run":"303.44","mem":"28.13","data":"Calling destination-specific send method `pb_backupbuddy_destination_live::send`."}
+{"event":"details","time":1598639708,"u":"22","run":"303.45","mem":"28.14","data":"Starting S32 send()."}
+{"event":"details","time":1598639708,"u":"23","run":"303.46","mem":"28.15","data":"File size of `470 KB`."}
+{"event":"details","time":1598639708,"u":"24","run":"303.47","mem":"28.15","data":"Initiating multipart transfer."}
+{"event":"details","time":1598639708,"u":"29","run":"303.52","mem":"28.15","data":"Initiated multipart upload with ID `2~kgfW11ZqEP7_B4AT5OhYw3miGhJR_TG`."}
+{"event":"details","time":1598639708,"u":"30","run":"303.52","mem":"28.16","data":"Multipart initiated; passing over to send first chunk this run. Burst size: `10 MB`."}
+{"event":"details","time":1598639708,"u":"31","run":"303.53","mem":"28.15","data":"Max time not set in settings so detecting server max PHP runtime."}
+{"event":"details","time":1598639708,"u":"32","run":"303.54","mem":"28.15","data":"Using max runtime: `372`."}
+{"event":"details","time":1598639708,"u":"33","run":"303.55","mem":"28.15","data":"About to read in part contents of part `1` of `1` parts of file `\/home\/site\/wwwroot\/pdfflip\/pflip\/js\/libs\/three.min.js` to remote location `pdfflip\/pflip\/js\/libs\/three.min.js` with multipart ID `2~kgfW11ZqEP7_B4AT5OhYw3miGhJR_TG`."}
+{"event":"details","time":1598639708,"u":"40","run":"303.62","mem":"28.62","data":"Beginning upload."}
+{"event":"details","time":1598639708,"u":"54","run":"303.76","mem":"28.62","data":"Success sending chunk. Enable full logging for upload result details."}
+{"event":"details","time":1598639708,"u":"55","run":"303.77","mem":"28.62","data":"Uploaded size this burst: `470 KB`, Start time: `1598657708.3303`. Finish time: `1598657708.5474`. Elapsed: `0.21713089942932`. Speed: `2.11 MB`\/sec."}
+{"event":"details","time":1598639708,"u":"56","run":"303.78","mem":"28.62","data":"Loading fileoptions data instance #10..."}
+{"event":"details","time":1598639708,"u":"57","run":"303.79","mem":"28.62","data":"Created fileoptions lock file `send-live_2af022d686e91408ccf293609870b553-fiu1fm.txt.lock` with ID: 5f4994ac8bb6f3.31448624."}
+{"event":"details","time":1598639708,"u":"59","run":"303.81","mem":"28.63","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1598639708,"u":"59","run":"303.82","mem":"28.63","data":"Fileoptions data loaded."}
+{"event":"details","time":1598639708,"u":"60","run":"303.83","mem":"28.63","data":"Getting etags and notifying of multipart upload completion."}
+{"event":"details","time":1598639708,"u":"65","run":"303.88","mem":"28.63","data":"Server notified of multipart completion."}
+{"event":"details","time":1598639708,"u":"66","run":"303.88","mem":"28.63","data":"No more parts left for this multipart upload. Clearing multipart instance variables."}
+{"event":"details","time":1598639708,"u":"67","run":"303.90","mem":"28.63","data":"Upload speed average of all chunks: `2.11 MB`."}
+{"event":"details","time":1598639708,"u":"70","run":"303.92","mem":"28.64","data":"Fileoptions `send-live_2af022d686e91408ccf293609870b553-fiu1fm.txt` saved. 3052 bytes written."}
+{"event":"details","time":1598639708,"u":"72","run":"303.94","mem":"28.14","data":"Saving catalog that file `\/pdfflip\/pflip\/js\/libs\/three.min.js` has been backed up."}
+{"event":"details","time":1598639708,"u":"78","run":"304.00","mem":"28.14","data":"Fileoptions `catalog-6qcd5w5vz246ftv.txt` saved (Live mode). 1960650 bytes written."}
+{"event":"details","time":1598639708,"u":"83","run":"304.05","mem":"28.15","data":"Fileoptions `state-6qcd5w5vz246ftv.txt` saved. 4164 bytes written."}
+{"event":"details","time":1598639708,"u":"84","run":"304.06","mem":"28.13","data":"Completed send function. Success."}
+{"event":"details","time":1598639708,"u":"85","run":"304.07","mem":"28.13","data":"Loading fileoptions data instance #16..."}
+{"event":"details","time":1598639708,"u":"87","run":"304.09","mem":"28.13","data":"Created fileoptions lock file `send-live_2af022d686e91408ccf293609870b553-fiu1fm.txt.lock` with ID: 5f4994acd3b4c8.24315680."}
+{"event":"details","time":1598639708,"u":"88","run":"304.10","mem":"28.14","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1598639708,"u":"89","run":"304.11","mem":"28.14","data":"Fileoptions data loaded."}
+{"event":"details","time":1598639708,"u":"91","run":"304.13","mem":"28.14","data":"Post-send deletion not enabled."}
+{"event":"details","time":1598639708,"u":"92","run":"304.14","mem":"28.14","data":"Ending send() function pass."}

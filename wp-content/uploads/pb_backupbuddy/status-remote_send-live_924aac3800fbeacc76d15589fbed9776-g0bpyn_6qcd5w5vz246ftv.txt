@@ -1,0 +1,45 @@
+{"event":"details","time":1598776234,"u":"34","run":"45.29","mem":"12.51","data":"----- Initiating master send function for BackupBuddy v8.6.1.0."}
+{"event":"details","time":1598776234,"u":"35","run":"45.30","mem":"12.51","data":"Basename file: `wp_gmsk8d_actionscheduler_claims.sql`. Post-send deletion: Yes"}
+{"event":"details","time":1598776234,"u":"36","run":"45.31","mem":"12.51","data":"Created fileoptions lock file `send-live_924aac3800fbeacc76d15589fbed9776-g0bpyn.txt.lock` with ID: 5f4ba9fa578f87.96520146."}
+{"event":"details","time":1598776234,"u":"37","run":"45.32","mem":"12.51","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1598776234,"u":"39","run":"45.34","mem":"12.52","data":"Fileoptions `send-live_924aac3800fbeacc76d15589fbed9776-g0bpyn.txt` saved. 2784 bytes written."}
+{"event":"details","time":1598776234,"u":"41","run":"45.36","mem":"12.51","data":"Initializing destination."}
+{"event":"details","time":1598776234,"u":"42","run":"45.37","mem":"12.51","data":"Applying destination-specific defaults."}
+{"event":"details","time":1598776234,"u":"43","run":"45.38","mem":"12.52","data":"Applying global destination defaults."}
+{"event":"details","time":1598776234,"u":"44","run":"45.39","mem":"12.52","data":"Calling destination-specific send method `pb_backupbuddy_destination_live::send`."}
+{"event":"details","time":1598776234,"u":"45","run":"45.40","mem":"12.53","data":"Starting S32 send()."}
+{"event":"details","time":1598776234,"u":"46","run":"45.41","mem":"12.54","data":"Using bundled cacert.pem file based on destination settings."}
+{"event":"details","time":1598776234,"u":"47","run":"45.42","mem":"12.57","data":"Guzzle client cainfo: `\/home\/site\/wwwroot\/wp-content\/plugins\/backupbuddy\/destinations\/_s3lib2\/Guzzle\/Http\/Resources\/cacert.pem`. capath: `n\/a`."}
+{"event":"details","time":1598776234,"u":"48","run":"45.43","mem":"12.59","data":"File size of `586 Bytes`."}
+{"event":"details","time":1598776234,"u":"48","run":"45.43","mem":"12.59","data":"Initiating multipart transfer."}
+{"event":"details","time":1598776234,"u":"70","run":"45.65","mem":"12.62","data":"Initiated multipart upload with ID `2~_iMsdVAcwJpR_TLoAXwuBNvZ086a1Re`."}
+{"event":"details","time":1598776234,"u":"70","run":"45.65","mem":"12.63","data":"Multipart initiated; passing over to send first chunk this run. Burst size: `10 MB`."}
+{"event":"details","time":1598776234,"u":"71","run":"45.66","mem":"12.62","data":"Max time not set in settings so detecting server max PHP runtime."}
+{"event":"details","time":1598776234,"u":"72","run":"45.67","mem":"12.62","data":"Using max runtime: `362`."}
+{"event":"details","time":1598776234,"u":"73","run":"45.68","mem":"12.62","data":"About to read in part contents of part `1` of `1` parts of file `\/home\/site\/wwwroot\/wp-content\/uploads\/backupbuddy_temp\/6qcd5w5vz246ftv\/live_db_snapshot\/wp_gmsk8d_actionscheduler_claims.sql` to remote location `wp-content\/uploads\/backupbuddy_temp\/SERIAL\/wp_gmsk8d_actionscheduler_claims.sql` with multipart ID `2~_iMsdVAcwJpR_TLoAXwuBNvZ086a1Re`."}
+{"event":"details","time":1598776234,"u":"75","run":"45.70","mem":"12.63","data":"Beginning upload."}
+{"event":"details","time":1598776234,"u":"81","run":"45.76","mem":"12.64","data":"Success sending chunk. Enable full logging for upload result details."}
+{"event":"details","time":1598776234,"u":"82","run":"45.77","mem":"12.64","data":"Uploaded size this burst: `586 Bytes`, Start time: `1598794234.732`. Finish time: `1598794234.8214`. Elapsed: `0.08936595916748`. Speed: `6 KB`\/sec."}
+{"event":"details","time":1598776234,"u":"83","run":"45.78","mem":"12.64","data":"Loading fileoptions data instance #10..."}
+{"event":"details","time":1598776234,"u":"84","run":"45.79","mem":"12.64","data":"Created fileoptions lock file `send-live_924aac3800fbeacc76d15589fbed9776-g0bpyn.txt.lock` with ID: 5f4ba9facde9c6.73612660."}
+{"event":"details","time":1598776234,"u":"86","run":"45.81","mem":"12.65","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1598776234,"u":"86","run":"45.81","mem":"12.65","data":"Fileoptions data loaded."}
+{"event":"details","time":1598776234,"u":"87","run":"45.82","mem":"12.65","data":"Getting etags and notifying of multipart upload completion."}
+{"event":"details","time":1598776234,"u":"93","run":"45.89","mem":"12.66","data":"Server notified of multipart completion."}
+{"event":"details","time":1598776234,"u":"94","run":"45.89","mem":"12.66","data":"No more parts left for this multipart upload. Clearing multipart instance variables."}
+{"event":"details","time":1598776234,"u":"95","run":"45.90","mem":"12.66","data":"Upload speed average of all chunks: `6 KB`."}
+{"event":"details","time":1598776234,"u":"97","run":"45.92","mem":"12.67","data":"Fileoptions `send-live_924aac3800fbeacc76d15589fbed9776-g0bpyn.txt` saved. 3000 bytes written."}
+{"event":"details","time":1598776234,"u":"98","run":"45.93","mem":"12.63","data":"Saving catalog that file `\/home\/site\/wwwroot\/wp-content\/uploads\/backupbuddy_temp\/6qcd5w5vz246ftv\/live_db_snapshot\/wp_gmsk8d_actionscheduler_claims.sql` has been backed up."}
+{"event":"details","time":1598776235,"u":"00","run":"45.95","mem":"12.63","data":"Fileoptions `tables-6qcd5w5vz246ftv.txt` saved (Live mode). 3028 bytes written."}
+{"event":"details","time":1598776235,"u":"02","run":"45.97","mem":"12.64","data":"Fileoptions `state-6qcd5w5vz246ftv.txt` saved. 4088 bytes written."}
+{"event":"details","time":1598776235,"u":"03","run":"45.98","mem":"12.62","data":"Completed send function. Success."}
+{"event":"details","time":1598776235,"u":"03","run":"45.98","mem":"12.62","data":"Loading fileoptions data instance #16..."}
+{"event":"details","time":1598776235,"u":"05","run":"46.00","mem":"12.62","data":"Created fileoptions lock file `send-live_924aac3800fbeacc76d15589fbed9776-g0bpyn.txt.lock` with ID: 5f4ba9fb0c0a49.98384528."}
+{"event":"details","time":1598776235,"u":"06","run":"46.01","mem":"12.63","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1598776235,"u":"07","run":"46.02","mem":"12.63","data":"Fileoptions data loaded."}
+{"event":"details","time":1598776235,"u":"08","run":"46.03","mem":"12.63","data":"Post-send deletion enabled."}
+{"event":"details","time":1598776235,"u":"09","run":"46.04","mem":"12.63","data":"Performing post-send deletion since transfer succeeded."}
+{"event":"details","time":1598776235,"u":"10","run":"46.05","mem":"12.63","data":"Deleting local file `\/home\/site\/wwwroot\/wp-content\/uploads\/backupbuddy_temp\/6qcd5w5vz246ftv\/live_db_snapshot\/wp_gmsk8d_actionscheduler_claims.sql`."}
+{"event":"details","time":1598776235,"u":"11","run":"46.06","mem":"12.63","data":"Deleted local file after successful remote destination send based on settings."}
+{"event":"archiveDeleted","time":1598776235,"u":"12","run":"46.07","mem":"12.63","data":""}
+{"event":"details","time":1598776235,"u":"12","run":"46.07","mem":"12.63","data":"Ending send() function pass."}

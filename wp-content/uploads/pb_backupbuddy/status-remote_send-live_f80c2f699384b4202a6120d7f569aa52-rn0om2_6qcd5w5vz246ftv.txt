@@ -1,0 +1,41 @@
+{"event":"details","time":1598639701,"u":"42","run":"296.64","mem":"28.12","data":"----- Initiating master send function for BackupBuddy v8.6.1.0."}
+{"event":"details","time":1598639701,"u":"43","run":"296.65","mem":"28.12","data":"Basename file: `compatibility.js`. Post-send deletion: No"}
+{"event":"details","time":1598639701,"u":"44","run":"296.66","mem":"28.12","data":"Created fileoptions lock file `send-live_f80c2f699384b4202a6120d7f569aa52-rn0om2.txt.lock` with ID: 5f4994a56b3d19.69485653."}
+{"event":"details","time":1598639701,"u":"45","run":"296.67","mem":"28.12","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1598639701,"u":"47","run":"296.69","mem":"28.13","data":"Fileoptions `send-live_f80c2f699384b4202a6120d7f569aa52-rn0om2.txt` saved. 2832 bytes written."}
+{"event":"details","time":1598639701,"u":"48","run":"296.71","mem":"28.12","data":"Initializing destination."}
+{"event":"details","time":1598639701,"u":"55","run":"296.77","mem":"28.12","data":"Applying destination-specific defaults."}
+{"event":"details","time":1598639701,"u":"56","run":"296.78","mem":"28.13","data":"Applying global destination defaults."}
+{"event":"details","time":1598639701,"u":"57","run":"296.79","mem":"28.13","data":"Calling destination-specific send method `pb_backupbuddy_destination_live::send`."}
+{"event":"details","time":1598639701,"u":"57","run":"296.80","mem":"28.14","data":"Starting S32 send()."}
+{"event":"details","time":1598639701,"u":"58","run":"296.80","mem":"28.16","data":"Using bundled cacert.pem file based on destination settings."}
+{"event":"details","time":1598639701,"u":"61","run":"296.83","mem":"28.18","data":"Guzzle client cainfo: `\/home\/site\/wwwroot\/wp-content\/plugins\/backupbuddy\/destinations\/_s3lib2\/Guzzle\/Http\/Resources\/cacert.pem`. capath: `n\/a`."}
+{"event":"details","time":1598639701,"u":"62","run":"296.84","mem":"28.20","data":"File size of `19 KB`."}
+{"event":"details","time":1598639701,"u":"63","run":"296.85","mem":"28.20","data":"Initiating multipart transfer."}
+{"event":"details","time":1598639701,"u":"86","run":"297.08","mem":"28.23","data":"Initiated multipart upload with ID `2~mgkQjhtBQHP8GrZWwTTmiXRTcNvajLm`."}
+{"event":"details","time":1598639701,"u":"86","run":"297.09","mem":"28.24","data":"Multipart initiated; passing over to send first chunk this run. Burst size: `10 MB`."}
+{"event":"details","time":1598639701,"u":"87","run":"297.10","mem":"28.23","data":"Max time not set in settings so detecting server max PHP runtime."}
+{"event":"details","time":1598639701,"u":"88","run":"297.11","mem":"28.23","data":"Using max runtime: `372`."}
+{"event":"details","time":1598639701,"u":"89","run":"297.12","mem":"28.23","data":"About to read in part contents of part `1` of `1` parts of file `\/home\/site\/wwwroot\/pdfflip\/pflip\/js\/libs\/compatibility.js` to remote location `pdfflip\/pflip\/js\/libs\/compatibility.js` with multipart ID `2~mgkQjhtBQHP8GrZWwTTmiXRTcNvajLm`."}
+{"event":"details","time":1598639701,"u":"94","run":"297.17","mem":"28.26","data":"Beginning upload."}
+{"event":"details","time":1598639702,"u":"02","run":"297.24","mem":"28.27","data":"Success sending chunk. Enable full logging for upload result details."}
+{"event":"details","time":1598639702,"u":"03","run":"297.26","mem":"28.27","data":"Uploaded size this burst: `19 KB`, Start time: `1598657701.8947`. Finish time: `1598657702.0342`. Elapsed: `0.13943219184875`. Speed: `136 KB`\/sec."}
+{"event":"details","time":1598639702,"u":"04","run":"297.26","mem":"28.27","data":"Loading fileoptions data instance #10..."}
+{"event":"details","time":1598639702,"u":"06","run":"297.28","mem":"28.27","data":"Created fileoptions lock file `send-live_f80c2f699384b4202a6120d7f569aa52-rn0om2.txt.lock` with ID: 5f4994a60e22f6.59931487."}
+{"event":"details","time":1598639702,"u":"07","run":"297.30","mem":"28.28","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1598639702,"u":"08","run":"297.31","mem":"28.28","data":"Fileoptions data loaded."}
+{"event":"details","time":1598639702,"u":"09","run":"297.31","mem":"28.28","data":"Getting etags and notifying of multipart upload completion."}
+{"event":"details","time":1598639702,"u":"15","run":"297.38","mem":"28.29","data":"Server notified of multipart completion."}
+{"event":"details","time":1598639702,"u":"16","run":"297.38","mem":"28.29","data":"No more parts left for this multipart upload. Clearing multipart instance variables."}
+{"event":"details","time":1598639702,"u":"18","run":"297.40","mem":"28.29","data":"Upload speed average of all chunks: `136 KB`."}
+{"event":"details","time":1598639702,"u":"20","run":"297.42","mem":"28.30","data":"Fileoptions `send-live_f80c2f699384b4202a6120d7f569aa52-rn0om2.txt` saved. 3052 bytes written."}
+{"event":"details","time":1598639702,"u":"22","run":"297.44","mem":"28.25","data":"Saving catalog that file `\/pdfflip\/pflip\/js\/libs\/compatibility.js` has been backed up."}
+{"event":"details","time":1598639702,"u":"28","run":"297.51","mem":"28.14","data":"Fileoptions `catalog-6qcd5w5vz246ftv.txt` saved (Live mode). 1960605 bytes written."}
+{"event":"details","time":1598639702,"u":"33","run":"297.55","mem":"28.15","data":"Fileoptions `state-6qcd5w5vz246ftv.txt` saved. 4164 bytes written."}
+{"event":"details","time":1598639702,"u":"34","run":"297.56","mem":"28.13","data":"Completed send function. Success."}
+{"event":"details","time":1598639702,"u":"34","run":"297.57","mem":"28.13","data":"Loading fileoptions data instance #16..."}
+{"event":"details","time":1598639702,"u":"36","run":"297.58","mem":"28.13","data":"Created fileoptions lock file `send-live_f80c2f699384b4202a6120d7f569aa52-rn0om2.txt.lock` with ID: 5f4994a657df64.85793301."}
+{"event":"details","time":1598639702,"u":"37","run":"297.59","mem":"28.14","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1598639702,"u":"38","run":"297.60","mem":"28.14","data":"Fileoptions data loaded."}
+{"event":"details","time":1598639702,"u":"40","run":"297.63","mem":"28.14","data":"Post-send deletion not enabled."}
+{"event":"details","time":1598639702,"u":"41","run":"297.64","mem":"28.14","data":"Ending send() function pass."}

@@ -1,0 +1,39 @@
+{"event":"details","time":1599056858,"u":"02","run":"75.51","mem":"18.98","data":"----- Initiating master send function for BackupBuddy v8.6.1.0."}
+{"event":"details","time":1599056858,"u":"03","run":"75.52","mem":"18.98","data":"Basename file: `phpunit_php7.patch`. Post-send deletion: No"}
+{"event":"details","time":1599056858,"u":"06","run":"75.55","mem":"18.99","data":"Created fileoptions lock file `send-live_311dbac2dbdef185b380090ce3cfb7b3-4wzejf.txt.lock` with ID: 5f4ff22a0dc7b8.94451383."}
+{"event":"details","time":1599056858,"u":"07","run":"75.56","mem":"18.98","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1599056858,"u":"15","run":"75.64","mem":"18.99","data":"Fileoptions `send-live_311dbac2dbdef185b380090ce3cfb7b3-4wzejf.txt` saved. 2832 bytes written."}
+{"event":"details","time":1599056858,"u":"18","run":"75.67","mem":"18.98","data":"Initializing destination."}
+{"event":"details","time":1599056858,"u":"21","run":"75.70","mem":"18.98","data":"Applying destination-specific defaults."}
+{"event":"details","time":1599056858,"u":"23","run":"75.72","mem":"18.99","data":"Applying global destination defaults."}
+{"event":"details","time":1599056858,"u":"24","run":"75.73","mem":"18.99","data":"Calling destination-specific send method `pb_backupbuddy_destination_live::send`."}
+{"event":"details","time":1599056858,"u":"26","run":"75.74","mem":"19.00","data":"Starting S32 send()."}
+{"event":"details","time":1599056858,"u":"27","run":"75.76","mem":"19.01","data":"File size of `2 KB`."}
+{"event":"details","time":1599056858,"u":"28","run":"75.77","mem":"19.01","data":"Initiating multipart transfer."}
+{"event":"details","time":1599056858,"u":"51","run":"76.00","mem":"19.01","data":"Initiated multipart upload with ID `2~IxAFZ9zo1WtXdOIB6K9YfZF_Hd_G78q`."}
+{"event":"details","time":1599056858,"u":"52","run":"76.01","mem":"19.02","data":"Multipart initiated; passing over to send first chunk this run. Burst size: `10 MB`."}
+{"event":"details","time":1599056858,"u":"53","run":"76.01","mem":"19.01","data":"Max time not set in settings so detecting server max PHP runtime."}
+{"event":"details","time":1599056858,"u":"53","run":"76.02","mem":"19.01","data":"Using max runtime: `362`."}
+{"event":"details","time":1599056858,"u":"54","run":"76.03","mem":"19.01","data":"About to read in part contents of part `1` of `1` parts of file `\/home\/site\/wwwroot\/wp-content\/plugins\/redis-cache\/dependencies\/predis\/predis\/tests\/phpunit_php7.patch` to remote location `wp-content\/plugins\/redis-cache\/dependencies\/predis\/predis\/tests\/phpunit_php7.patch` with multipart ID `2~IxAFZ9zo1WtXdOIB6K9YfZF_Hd_G78q`."}
+{"event":"details","time":1599056858,"u":"57","run":"76.06","mem":"19.02","data":"Beginning upload."}
+{"event":"details","time":1599056858,"u":"62","run":"76.11","mem":"19.02","data":"Success sending chunk. Enable full logging for upload result details."}
+{"event":"details","time":1599056858,"u":"63","run":"76.12","mem":"19.02","data":"Uploaded size this burst: `2 KB`, Start time: `1599074858.5428`. Finish time: `1599074858.6286`. Elapsed: `0.085778951644897`. Speed: `26 KB`\/sec."}
+{"event":"details","time":1599056858,"u":"63","run":"76.12","mem":"19.02","data":"Loading fileoptions data instance #10..."}
+{"event":"details","time":1599056858,"u":"65","run":"76.14","mem":"19.03","data":"Created fileoptions lock file `send-live_311dbac2dbdef185b380090ce3cfb7b3-4wzejf.txt.lock` with ID: 5f4ff22a9e4114.99957904."}
+{"event":"details","time":1599056858,"u":"66","run":"76.15","mem":"19.03","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1599056858,"u":"69","run":"76.18","mem":"19.03","data":"Fileoptions data loaded."}
+{"event":"details","time":1599056858,"u":"72","run":"76.21","mem":"19.03","data":"Getting etags and notifying of multipart upload completion."}
+{"event":"details","time":1599056858,"u":"80","run":"76.29","mem":"19.03","data":"Server notified of multipart completion."}
+{"event":"details","time":1599056858,"u":"81","run":"76.30","mem":"19.03","data":"No more parts left for this multipart upload. Clearing multipart instance variables."}
+{"event":"details","time":1599056858,"u":"83","run":"76.31","mem":"19.03","data":"Upload speed average of all chunks: `26 KB`."}
+{"event":"details","time":1599056858,"u":"86","run":"76.35","mem":"19.04","data":"Fileoptions `send-live_311dbac2dbdef185b380090ce3cfb7b3-4wzejf.txt` saved. 3052 bytes written."}
+{"event":"details","time":1599056858,"u":"90","run":"76.39","mem":"19.00","data":"Saving catalog that file `\/wp-content\/plugins\/redis-cache\/dependencies\/predis\/predis\/tests\/phpunit_php7.patch` has been backed up."}
+{"event":"details","time":1599056859,"u":"00","run":"76.49","mem":"19.00","data":"Fileoptions `catalog-6qcd5w5vz246ftv.txt` saved (Live mode). 1967955 bytes written."}
+{"event":"details","time":1599056859,"u":"09","run":"76.58","mem":"19.02","data":"Fileoptions `state-6qcd5w5vz246ftv.txt` saved. 4164 bytes written."}
+{"event":"details","time":1599056859,"u":"11","run":"76.60","mem":"18.99","data":"Completed send function. Success."}
+{"event":"details","time":1599056859,"u":"12","run":"76.61","mem":"18.99","data":"Loading fileoptions data instance #16..."}
+{"event":"details","time":1599056859,"u":"15","run":"76.64","mem":"18.99","data":"Created fileoptions lock file `send-live_311dbac2dbdef185b380090ce3cfb7b3-4wzejf.txt.lock` with ID: 5f4ff22b2463d4.68374113."}
+{"event":"details","time":1599056859,"u":"18","run":"76.67","mem":"19.00","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1599056859,"u":"19","run":"76.68","mem":"19.00","data":"Fileoptions data loaded."}
+{"event":"details","time":1599056859,"u":"25","run":"76.74","mem":"19.00","data":"Post-send deletion not enabled."}
+{"event":"details","time":1599056859,"u":"27","run":"76.76","mem":"19.00","data":"Ending send() function pass."}

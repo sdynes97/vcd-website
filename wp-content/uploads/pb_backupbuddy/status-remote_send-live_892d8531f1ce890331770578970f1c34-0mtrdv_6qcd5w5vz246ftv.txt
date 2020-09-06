@@ -1,0 +1,39 @@
+{"event":"details","time":1598964999,"u":"72","run":"338.87","mem":"18.47","data":"----- Initiating master send function for BackupBuddy v8.6.1.0."}
+{"event":"details","time":1598964999,"u":"73","run":"338.87","mem":"18.47","data":"Basename file: `class.json-api-token.php`. Post-send deletion: No"}
+{"event":"details","time":1598964999,"u":"74","run":"338.89","mem":"18.47","data":"Created fileoptions lock file `send-live_892d8531f1ce890331770578970f1c34-0mtrdv.txt.lock` with ID: 5f4e8b57b56e63.82051106."}
+{"event":"details","time":1598964999,"u":"75","run":"338.89","mem":"18.47","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1598964999,"u":"78","run":"338.92","mem":"18.48","data":"Fileoptions `send-live_892d8531f1ce890331770578970f1c34-0mtrdv.txt` saved. 2832 bytes written."}
+{"event":"details","time":1598964999,"u":"79","run":"338.93","mem":"18.47","data":"Initializing destination."}
+{"event":"details","time":1598964999,"u":"81","run":"338.96","mem":"18.47","data":"Applying destination-specific defaults."}
+{"event":"details","time":1598964999,"u":"82","run":"338.96","mem":"18.48","data":"Applying global destination defaults."}
+{"event":"details","time":1598964999,"u":"83","run":"338.97","mem":"18.48","data":"Calling destination-specific send method `pb_backupbuddy_destination_live::send`."}
+{"event":"details","time":1598964999,"u":"84","run":"338.98","mem":"18.49","data":"Starting S32 send()."}
+{"event":"details","time":1598964999,"u":"84","run":"338.99","mem":"18.50","data":"File size of `2 KB`."}
+{"event":"details","time":1598964999,"u":"85","run":"338.99","mem":"18.50","data":"Initiating multipart transfer."}
+{"event":"details","time":1598964999,"u":"90","run":"339.04","mem":"18.50","data":"Initiated multipart upload with ID `2~dZbm18pM2XaCSZJ0rSNFS0QZd85OuM0`."}
+{"event":"details","time":1598964999,"u":"90","run":"339.05","mem":"18.51","data":"Multipart initiated; passing over to send first chunk this run. Burst size: `10 MB`."}
+{"event":"details","time":1598964999,"u":"97","run":"339.11","mem":"18.50","data":"Max time not set in settings so detecting server max PHP runtime."}
+{"event":"details","time":1598964999,"u":"97","run":"339.12","mem":"18.50","data":"Using max runtime: `362`."}
+{"event":"details","time":1598964999,"u":"98","run":"339.13","mem":"18.50","data":"About to read in part contents of part `1` of `1` parts of file `\/home\/site\/wwwroot\/wp-content\/plugins\/jetpack\/sal\/class.json-api-token.php` to remote location `wp-content\/plugins\/jetpack\/sal\/class.json-api-token.php` with multipart ID `2~dZbm18pM2XaCSZJ0rSNFS0QZd85OuM0`."}
+{"event":"details","time":1598964999,"u":"99","run":"339.13","mem":"18.51","data":"Beginning upload."}
+{"event":"details","time":1598965000,"u":"04","run":"339.18","mem":"18.51","data":"Success sending chunk. Enable full logging for upload result details."}
+{"event":"details","time":1598965000,"u":"05","run":"339.19","mem":"18.51","data":"Uploaded size this burst: `2 KB`, Start time: `1598982999.9833`. Finish time: `1598983000.0478`. Elapsed: `0.064588069915771`. Speed: `27 KB`\/sec."}
+{"event":"details","time":1598965000,"u":"06","run":"339.20","mem":"18.51","data":"Loading fileoptions data instance #10..."}
+{"event":"details","time":1598965000,"u":"07","run":"339.22","mem":"18.51","data":"Created fileoptions lock file `send-live_892d8531f1ce890331770578970f1c34-0mtrdv.txt.lock` with ID: 5f4e8b5811e621.78945241."}
+{"event":"details","time":1598965000,"u":"09","run":"339.23","mem":"18.52","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1598965000,"u":"10","run":"339.24","mem":"18.52","data":"Fileoptions data loaded."}
+{"event":"details","time":1598965000,"u":"10","run":"339.25","mem":"18.52","data":"Getting etags and notifying of multipart upload completion."}
+{"event":"details","time":1598965000,"u":"16","run":"339.30","mem":"18.52","data":"Server notified of multipart completion."}
+{"event":"details","time":1598965000,"u":"16","run":"339.31","mem":"18.52","data":"No more parts left for this multipart upload. Clearing multipart instance variables."}
+{"event":"details","time":1598965000,"u":"17","run":"339.32","mem":"18.52","data":"Upload speed average of all chunks: `27 KB`."}
+{"event":"details","time":1598965000,"u":"20","run":"339.34","mem":"18.53","data":"Fileoptions `send-live_892d8531f1ce890331770578970f1c34-0mtrdv.txt` saved. 3048 bytes written."}
+{"event":"details","time":1598965000,"u":"21","run":"339.36","mem":"18.49","data":"Saving catalog that file `\/wp-content\/plugins\/jetpack\/sal\/class.json-api-token.php` has been backed up."}
+{"event":"details","time":1598965000,"u":"28","run":"339.42","mem":"18.49","data":"Fileoptions `catalog-6qcd5w5vz246ftv.txt` saved (Live mode). 1956313 bytes written."}
+{"event":"details","time":1598965000,"u":"32","run":"339.46","mem":"18.50","data":"Fileoptions `state-6qcd5w5vz246ftv.txt` saved. 4088 bytes written."}
+{"event":"details","time":1598965000,"u":"32","run":"339.47","mem":"18.48","data":"Completed send function. Success."}
+{"event":"details","time":1598965000,"u":"33","run":"339.48","mem":"18.48","data":"Loading fileoptions data instance #16..."}
+{"event":"details","time":1598965000,"u":"35","run":"339.49","mem":"18.48","data":"Created fileoptions lock file `send-live_892d8531f1ce890331770578970f1c34-0mtrdv.txt.lock` with ID: 5f4e8b58555e41.31062973."}
+{"event":"details","time":1598965000,"u":"37","run":"339.51","mem":"18.49","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1598965000,"u":"37","run":"339.52","mem":"18.49","data":"Fileoptions data loaded."}
+{"event":"details","time":1598965000,"u":"40","run":"339.54","mem":"18.49","data":"Post-send deletion not enabled."}
+{"event":"details","time":1598965000,"u":"40","run":"339.55","mem":"18.49","data":"Ending send() function pass."}

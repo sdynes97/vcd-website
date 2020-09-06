@@ -1,0 +1,39 @@
+{"event":"details","time":1599323520,"u":"45","run":"86.25","mem":"27.72","data":"----- Initiating master send function for BackupBuddy v8.6.1.0."}
+{"event":"details","time":1599323520,"u":"46","run":"86.25","mem":"27.72","data":"Basename file: `colors.scss`. Post-send deletion: No"}
+{"event":"details","time":1599323520,"u":"47","run":"86.26","mem":"27.72","data":"Created fileoptions lock file `send-live_0702a43b3f6068e3aae811098e166a61-d46020.txt.lock` with ID: 5f5403d0723752.30839764."}
+{"event":"details","time":1599323520,"u":"48","run":"86.27","mem":"27.72","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1599323520,"u":"51","run":"86.31","mem":"27.72","data":"Fileoptions `send-live_0702a43b3f6068e3aae811098e166a61-d46020.txt` saved. 2832 bytes written."}
+{"event":"details","time":1599323520,"u":"53","run":"86.32","mem":"27.72","data":"Initializing destination."}
+{"event":"details","time":1599323520,"u":"54","run":"86.34","mem":"27.72","data":"Applying destination-specific defaults."}
+{"event":"details","time":1599323520,"u":"55","run":"86.34","mem":"27.73","data":"Applying global destination defaults."}
+{"event":"details","time":1599323520,"u":"55","run":"86.35","mem":"27.73","data":"Calling destination-specific send method `pb_backupbuddy_destination_live::send`."}
+{"event":"details","time":1599323520,"u":"56","run":"86.36","mem":"27.74","data":"Starting S32 send()."}
+{"event":"details","time":1599323520,"u":"57","run":"86.37","mem":"27.74","data":"File size of `220 Bytes`."}
+{"event":"details","time":1599323520,"u":"58","run":"86.38","mem":"27.74","data":"Initiating multipart transfer."}
+{"event":"details","time":1599323520,"u":"62","run":"86.42","mem":"27.75","data":"Initiated multipart upload with ID `2~5OJkyWX29R6r4oyzzs9ElmWrzByIvfV`."}
+{"event":"details","time":1599323520,"u":"63","run":"86.42","mem":"27.75","data":"Multipart initiated; passing over to send first chunk this run. Burst size: `10 MB`."}
+{"event":"details","time":1599323520,"u":"63","run":"86.43","mem":"27.75","data":"Max time not set in settings so detecting server max PHP runtime."}
+{"event":"details","time":1599323520,"u":"64","run":"86.44","mem":"27.75","data":"Using max runtime: `362`."}
+{"event":"details","time":1599323520,"u":"64","run":"86.44","mem":"27.75","data":"About to read in part contents of part `1` of `1` parts of file `\/home\/site\/wwwroot\/wp-admin\/css\/colors\/modern\/colors.scss` to remote location `wp-admin\/css\/colors\/modern\/colors.scss` with multipart ID `2~5OJkyWX29R6r4oyzzs9ElmWrzByIvfV`."}
+{"event":"details","time":1599323520,"u":"65","run":"86.45","mem":"27.75","data":"Beginning upload."}
+{"event":"details","time":1599323520,"u":"70","run":"86.49","mem":"27.75","data":"Success sending chunk. Enable full logging for upload result details."}
+{"event":"details","time":1599323520,"u":"70","run":"86.50","mem":"27.76","data":"Uploaded size this burst: `220 Bytes`, Start time: `1599341520.6473`. Finish time: `1599341520.7057`. Elapsed: `0.058369874954224`. Speed: `4 KB`\/sec."}
+{"event":"details","time":1599323520,"u":"71","run":"86.51","mem":"27.75","data":"Loading fileoptions data instance #10..."}
+{"event":"details","time":1599323520,"u":"72","run":"86.52","mem":"27.76","data":"Created fileoptions lock file `send-live_0702a43b3f6068e3aae811098e166a61-d46020.txt.lock` with ID: 5f5403d0b03635.76485084."}
+{"event":"details","time":1599323520,"u":"73","run":"86.53","mem":"27.76","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1599323520,"u":"74","run":"86.54","mem":"27.76","data":"Fileoptions data loaded."}
+{"event":"details","time":1599323520,"u":"75","run":"86.55","mem":"27.76","data":"Getting etags and notifying of multipart upload completion."}
+{"event":"details","time":1599323520,"u":"80","run":"86.59","mem":"27.76","data":"Server notified of multipart completion."}
+{"event":"details","time":1599323520,"u":"80","run":"86.60","mem":"27.76","data":"No more parts left for this multipart upload. Clearing multipart instance variables."}
+{"event":"details","time":1599323520,"u":"81","run":"86.61","mem":"27.76","data":"Upload speed average of all chunks: `4 KB`."}
+{"event":"details","time":1599323520,"u":"83","run":"86.63","mem":"27.77","data":"Fileoptions `send-live_0702a43b3f6068e3aae811098e166a61-d46020.txt` saved. 3048 bytes written."}
+{"event":"details","time":1599323520,"u":"84","run":"86.64","mem":"27.74","data":"Saving catalog that file `\/wp-admin\/css\/colors\/modern\/colors.scss` has been backed up."}
+{"event":"details","time":1599323520,"u":"90","run":"86.70","mem":"27.74","data":"Fileoptions `catalog-6qcd5w5vz246ftv.txt` saved (Live mode). 1968000 bytes written."}
+{"event":"details","time":1599323520,"u":"94","run":"86.74","mem":"27.75","data":"Fileoptions `state-6qcd5w5vz246ftv.txt` saved. 4084 bytes written."}
+{"event":"details","time":1599323520,"u":"95","run":"86.74","mem":"27.73","data":"Completed send function. Success."}
+{"event":"details","time":1599323520,"u":"95","run":"86.75","mem":"27.73","data":"Loading fileoptions data instance #16..."}
+{"event":"details","time":1599323520,"u":"97","run":"86.76","mem":"27.73","data":"Created fileoptions lock file `send-live_0702a43b3f6068e3aae811098e166a61-d46020.txt.lock` with ID: 5f5403d0ec1b20.21552692."}
+{"event":"details","time":1599323520,"u":"98","run":"86.78","mem":"27.73","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1599323520,"u":"99","run":"86.78","mem":"27.73","data":"Fileoptions data loaded."}
+{"event":"details","time":1599323521,"u":"00","run":"86.79","mem":"27.73","data":"Post-send deletion not enabled."}
+{"event":"details","time":1599323521,"u":"00","run":"86.80","mem":"27.73","data":"Ending send() function pass."}
